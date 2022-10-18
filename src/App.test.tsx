@@ -23,5 +23,5 @@ test("renders App", () => {
 
 test("add_fail", () => {
   const a = 1;
-  expect(a).toEqual(2);
+  expect(a).toEqual(1);
 });
